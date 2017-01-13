@@ -1,0 +1,28 @@
+.mainImg{
+    align:center;
+    width: 500px;
+    height: 300px;
+}
+
+.img{
+    background-color: dimgray;
+    text-align: center;
+}
+
+h1{
+    text-align:center;
+    background-color: aliceblue;
+}
+
+.text{
+    padding: 10px;
+    border:2px solid dimgray;
+    text-align: center;
+    background-color:gainsboro;
+}
+
+.back{
+    text-align:center;
+    font-size: 14px;
+
+}
